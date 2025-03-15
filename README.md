@@ -30,7 +30,7 @@ Left and right connection is using USB Type-C cable. And main and power circult 
 
 ![れつぷり!!LowProfile版（左）とMX版（右）の比較](misc/img/letsupuri_compare.JPG)
 
-more detail at [pekaso.org](pekaso.org)
+more detail at [pekaso.org](https://pekaso.org)
 
 # License
 This repository contains both hardware and firmware components, each under a different license.
