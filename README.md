@@ -26,7 +26,7 @@ Left and right connection is using USB Type-C cable. And main and power circult 
 
 ## ぴくちゃ
 ![れつぷり!!LowProfile版](misc/img/lowprofile_pic1.JPG)
-![れつぷり!!MX版](misc/img/MX_pic1.JPG)
+![れつぷり!!MX版](misc/img/MX_pic1.jpg)
 
 ![れつぷり!!LowProfile版（左）とMX版（右）の比較](misc/img/letsupuri_compare.JPG)
 
